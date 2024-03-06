@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DetailNovel"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_detailcover"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        tools:src="@tools:sample/avatars"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/tv_detailtittle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:text="@string/title_book"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/iv_detailcover"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/iv_detailcover"
+        android:layout_marginStart="16dp"/>
+
+    <TextView
+        android:id="@+id/tv_detailpenulis"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/penulis"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/iv_detailcover"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detailtittle"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+        <TextView
+            android:id="@+id/tv_detailprice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="@string/price"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@+id/iv_detailcover"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detailpenulis"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp"/>
+
+        <TextView
+            android:id="@+id/tv_detailpublisher"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="@string/publisher"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@+id/iv_detailcover"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detailprice"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp"/>
+
+
+    <TextView
+        android:id="@+id/tv_detailsinopsis"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:text="@string/sinopsis"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_detailcover"
+        android:layout_margin="16dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

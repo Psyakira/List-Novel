@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Android-beginner</string>
+
+    <string name="title_book">Judul Buku</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="name">Putri Syakira Wirdiani</string>
+    <string name="email">putrisyakirawirdiani@gmail.com</string>
+    <string name="penulis">JK.ROWLING</string>
+    <string name="publisher">Penerbit\n</string>
+    <string name="price">Harga</string>
+
+    <string-array name="data_price">
+        <item>Rp.150.000</item>
+        <item>Rp.180.000</item>
+        <item>Rp.140.000</item>
+        <item>Rp.190.000</item>
+        <item>Rp.250.000</item>
+        <item>Rp.550.000</item>
+        <item>Rp.450.000</item>
+        <item>Rp.350.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.180.000</item>
+        <item>Rp.130.000</item>
+    </string-array>
+
+    <string-array name="data_publisher">
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Wizarding World</item>
+        <item>Gramedia Pustaka</item>
+        <item>Gramedia Pustaka</item>
+        <item>Gramedia Pustaka</item>
+
+
+    </string-array>
+
+    <string-array name="data_tittle">
+        <item>Harry Potter dan Batu Bertuah</item>
+        <item>Harry Potter dan Kamar Rahasia</item>
+        <item>Harry Potter dan Piala Api</item>
+        <item>Harry Potter dan Tawanan Azkaban</item>
+        <item>Harry Potter dan Orde Phoenix</item>
+        <item>Harry Potter dan Pangeran Berdarah Campuran</item>
+        <item>Harry Potter dan Relikui Kematian</item>
+        <item>Harry Potter dan si Anak Terkutuk</item>
+        <item>Fantastic Beast : Where to Find Them</item>
+        <item>Fantastic Beast : The Crimes of Grindelwald</item>
+        <item>Fantastic Beast : The Secret of Dumbledore</item>
+
+    </string-array>
+
+    <string-array name="data_sinopsis">
+
+        <item>
+            Mengisahkan tentang seorang anak lelaki bernama Harry Potter yang harus tinggal bersama saudaranya yang jahat setelah kedua orang tuanya meninggal. Saat usianya beranjak ke 11 tahun, Harry mengetahui bahwa ia merupakan seorang penyihir yang diterima di sebuah sekolah bernama Hogwarts.
+            Dengan cepat, Harry pun pindah ke asrama sekolah dan mulai hidupnya yang baru sebagai murid penyihir. Ia berteman dengan Ron Weasley dan Hermione Granger selama belajar tentang rencana pencurian batu bertuah untuk keabadian oleh seorang penyihir jahat.
+            Mengetahui hal tersebut, ketiga sahabat ini pun berusaha mengagalkan rencana sang penyihir jahat yang mencari batu bertuah tersebut di sekolah mereka.
+        </item>
+        <item>
+            Menghabiskan musim panas bersama keluarga pamannya, Harry Potter tiba-tiba didatangi oleh seorang peri rumah bersama Dobby. Peri itu datang untuk memperingatkan Harry agar tidak kembali ke Hogwarts. Dobby sengaja mengambil semua surat dari teman-teman Harry dan menyabotase acara makan malam penting keluarga Dursley yang berakhir menjadi bencana.
+            Paman Harry yang marah akhirnya mengurung Harry, namun bantuan datang saat Ron, Fred dan George Weasley datang. Harry akhirnya bisa kabur dari pamannya dan tinggal di kediaman Weasley sebelum mereka kembali ke sekolah. Harry, Hermione dan seluruh keluarga Weasley pergi ke Diagon Alley dan mendatangi peluncuran buku Gilderoy Lockhart.
+            Saat itulah mereka tidak sengaja bertemu Lucius dan Draco Malfoy, saat itulah Harry melihat Lucius diam-diam menyelipkan buku ke barang Ginny. Sekolah pun dimulai, Harry kembali menjadi Seeker dan kini berhadapan dengan Draco yang juga menjadi Seeker. Harry berhasil membawa kemenangan bagi Griffindor tapi harus terluka karena Bludger yang dimantrai untuk mengejarnya.
+        </item>
+        <item>
+            Harry Potter bangun dari mimpi buruknya, di mana ia menyaksikan seorang pria bernama Frank Bryce terbunuh setelah melihat Lord Voldemort bersekongkol dengan Peter Pettigrew. Setelah dari itu, Harry bersama dengan Ron, dan Hermione menghadiri pertandingan Piala Dunia Quidditch antara Irlandia dan Bulgaria.
+            Pada saat pertandingan berlangsung, para Pelahap Maut alias Death Eaters tiba-tiba meneror kamp, dan membakari semua tenda yang ada. Pria yang muncul dalam mimpi buruk Harry sekilas muncul di lokasi tersebut, dan melepaskan Dark Mark (Tanda Kegelapan) sebagai simbol dari Voldemort ke langit-langit.
+            Ketika mereka semua kembali ke Hogwarts, Albus Dumbledore memperkenalkan Alastor "Mad-Eye" Moody sebagai guru Pertahanan Terhadap Ilmu Hitam yang baru. Dumbledore juga mengumumkan bahwa Hogwarts akan menjadi tuan rumah Turnamen Triwizard, di mana tiga sekolah sihir bakal bersaing dalam turnamen tersebut.
+            The Goblet of Fire alias Piala Api lalu menyeleksi para juara dari setiap sekolah sihir untuk ikut bagian dalam turnamen. Cedric Diggory dari Hufflepuff selanjutnya mewakili Hogwarts, Viktor Krum mewakili Durmstrang Institute dari Eropa Timur, dan Fleur Delacour mewakili Akademi Sihir Beauxbatons dari Perancis.
+        </item>
+        <item>
+            Harry selanjutnya bertemu kembali dengan sahabat-sahabatnya, termasuk Ron Weasley dan Hermione Granger.Pada saat itu juga, Harry akhirnya mengetahui jika Sirius Black, seorang penyihir gelap dari komplotan Lord Voldemort, telah melarikan diri dari penjara Azkaban, dan berniat untuk membunuhnya. Harry, Ron, dan Hermione kemudian bergegas menuju sekolah Hogwarts untuk tahun ajaran ketiga. Hogwarts yang sekarang nampak berbeda karena ada penjaga hantu Dementor yang bertugas mencari Sirius.
+            Di Hogwarts, kepala sekolah Albus Dumbledore mengumumkan bahwa Dementor akan menjaga sekolah sampai Sirius Black berhasil ditangkap. Pada momen itu, Dumbledore juga mengungkapkan jika Remus Lupin akan menjadi guru Pertahanan Terhadap Ilmu Hitam yang baru, serta Rubeus Hagrid diumumkan menjadi guru Pemeliharaan Makhluk Gaib yang baru.
+            The Fat Lady alias Nyonya Gemuk, yang menjaga asrama Gryffindor, selanjutnya memberitahu kepada Dumbledore bahwa Sirius telah memasuki kastil Hogwarts. Sementara itu, Harry tiba-tiba diserang oleh Dementor saat dirinya tengah bertanding Quidditch melawan Hufflepuff.
+            Ketika berada di Desa Hogsmeade, Harry akhirnya mengetahui jika Sirius adalah sahabat dekat ayahnya, dan ia telah mengkhianati Lord Voldemort. Harry juga menemukan fakta mengejutkan bahwa Sirius ternyata merupakan ayah baptisnya. Di sisi lain, Remus Lupin secara pribadi mengajari Harry Potter untuk membela diri dari dementor dengan menggunakan Mantra Patronus.
+            Tikus peliharaan Ron, Scabbers, kemudian menggigitnya dan berlari ke arah pohon Whomping Willow. Saat Ron mengejar Scabbers, seekor anjing besar muncul dan menyeret Ron serta Scabbers ke lorong bawah tanah. Mereka akhirnya menemukan bahwa anjing itu sebenarnya adalah Sirius Black, yang merupakan sesosok Animagus.
+        </item>
+        <item>
+            Lord Voldemort kini telah muncul kembali, dan tengah mempersiapkan para pasukannya. Akan tetapi, sebagian para penyihir, serta Kementerian Sihir tidak mempercayai hal itu, dan malah menganggap jika Harry Potter dan Albus Dumbledore dianggap menyebar kabar bohong akan kemunculan Voldemort.
+            Karena respon yang tidak hangat tersebut, Dumbledore lalu mendirikan sebuah organisasi bernama The Order of the Phoenix, yang diikuti oleh sebagian penyihir yang percaya tentang kehadiran sang Dark Lord tersebut. Mereka kemudian menggunakan kediaman dari Sirius Black, ayah baptis dari Harry Potter, sebagai markas besarnya.
+            Sementara itu, Harry sekarang sedang berada di dunia Muggle bersama dengan saudaranya bernama Dudley Dursley, manusia biasa yang tidak mengetahui mantra sihir. Para Dementor tiba-tiba muncul, dan hendak menyerang dirinya. Harry mampu mengusirnya dengan sihir patronus miliknya, dan menyelamatkan nyawa Dursley yang hampir tewas dihisap oleh salah satu Dementor.
+            Sekembalinya ke Hogwarts, Harry menghadapi persidangan karena mengeluarkan sihir di dunia Muggle, dan semua yang hadir tidak percaya jika ada Dementor yang menyerangnya di dunia tersebut. Namun, Dumbledore berhasil membela Harry, dan ia lepas dari segala tuduhan yang diarahkan kepadanya.
+        </item>
+        <item>
+            Lord Voldemort kali ini telah melebarkan cengkeramannya pada dunia sihir Hogwarts ke dunia Muggle. Sementara itu, para Pelahap Maut alias Death Eaters menculik pembuat tongkat sihir, Garrick Ollivander, dan menghancurkan tokonya, serta merubuhkan Jembatan Milenium di Kota London. Voldemort kemudian memilih Draco Malfoy untuk menjalankan misi rahasia di Hogwarts.
+            Ibu Draco, Narcissa, dan Bellatrix Lestrange meminta Severus Snape untuk melakukan sebuah sumpah agar ia bisa melindungi Draco dalam menjalankan misinya tersebut. Di sisi lain, Harry Potter menemani Albus Dumbledore untuk membujuk mantan professor Mantra Ramuan, Horace Slughorn, untuk kembali ke Hogwarts.
+            Di kediaman keluarga Weasley, Harry bersatu kembali dengan sahabat-sahabatnya, termasuk ada Ron Weasley dan Hermione Granger. Mereka kemudian bergegas pergi ke Diagon Alley, dan melihat Draco yang sedang bersama dengan para Pelahap Maut. Harry pun meyakini jika Voldemort telah menjadikan Draco bagian dari mereka.
+            Sekolah sihir Hogwarts selanjutnya memiliki pengamanan yang sangat ketat supaya Death Eaters tidak bisa menyusup ke dalam sekolah. Profesor Horace Slughorn akhirnya kembali mengajar Ramuan di Hogwarts, dan Severus Snape kini menjadi guru Pertahanan Terhadap Ilmu Hitam. Harry dan Ron kemudian diminta oleh Profesor McGonagall untuk menghadiri kelas Ramun dari Profesor Slughorn.
+        </item>
+        <item>
+            Kementerian Sihir di bawah Menteri Rufus Scrimgeour mengatakan bahwa mereka masih kuat dan tidak terpengaruh sama sekali dengan kebangkitan Voldemort dan para Pelahap Maut. Sementara itu The Order of the Phoenix membuat rencana untuk memindahkan Harry ke tempat aman. Mereka memakai ramuan Polijus untuk membuat replika Harry agar bisa mengecoh musuh.
+            Sayangnya rencana ini di sabotase, Hedwig dan Mad-Eye Moody harus kehilangan nyawa mereka dan George Weasley terluka parah. Sampai di The Burrow, Harry mendapat penglihatan saat Voldemort menyiksa Ollivander. Hingga keesokan harinya wasiat Dumbledore dibacakan dimana Ron menerima Deluminator, Hermione menerima salinan The Tales of Beedle the Bard dan Harry menerima Golden Snitch dan pedang Gryffindor.
+            Lama setelahnya, Harry bangkit dan menyerang Voldemort, sementara Hermione dan Ron memancing Nagini dan berhasil dibunuh oleh Neville. Voldemort kembali menjadi manusia dan Harry mengalahkannya dengan menggunakan mantra Expelliarmus. Harry mendapatkan tongkat Elder dari Voldemort dan mengatakan bahwa tongkat ini setia padanya tapi ia memilih untuk menghancurkannya.
+            19 tahun kemudian, Harry yang sudah berkeluarga mengantar anak-anaknya ke Hogwarts di stasiun King’s Cross.
+        </item>
+        <item>
+            Bagaimana bila anak Harry Potter bersahabat dengan anak Draco Malfoy? Bagaimana bila Harry Potter merasakan bekas luka di dahinya sakit lagi? Apakah itu pertanda Voldemort alias Pangeran Kegelapan atau pengikutnya bangkit lagi?
+            Tidak hanya itu, ceritanya juga menawarkan sebuah jagat yang lain (alternative universe) yakni, bagaimana bila Cedric Diggory tak tewas dalam Turnamen Triwizard?
+            Bagaimana bila Harry Potter tewas dalam Pertempuran Hogwarts dan Voldemort yang berkuasa? Apa yang terjadi bila Voldemort tak membunuh orangtua Harry Potter? Atau pertanyaan yang lebih out of the box, bagaimana bila Voldemort ternyata punya keturunan?
+        </item>
+        <item>
+            Di saat yang bersamaan di Kota New York muncul sebuah kehebohan. Rumah-rumah hancur karena kemunculan sosok berwarna hitam dan bermata tajam. Tak hanya rumah dan toko-toko, jalan pun jadi terbelah dua. Kekuatan itu bergerak begitu cepat.
+            Scamander sedang berjalan dan terhenti karena adanya kerumunan di depan sebuah bank. Seorang pria yang menenteng tas yang sama menabraknya.
+            Sebuah uang logam yang jatuh memancing hewan peliharaan Scamander keluar dari tasnya. Dia pun mengejarnya dan tanpa dinyana dia bertemu lagi dengan pria yang membawa tas yang sama. Pria itu akan meminjam uang ke bank untuk membuka toko roti.
+        </item>
+        <item>
+            Grindelwald lolos dari tahanan dan mengumpulkan beberapa pengikut untuk membantunya. Tapi para pengikutnya tidak tahu tujuan sesungguhnya dari Grindelwald, yaitu meningkatkan kekuatan para penyihir demi menguasai makhluk non-magis. Albus Dumbeldore mengetahui hal tersebut.
+            Ia akhirnya meminta salah satu murid terbaiknya, Newt Scamander untuk menggagalkan tujuan Grindelwald. Tetapi cerita kemudian semakin rumit. Scamander malah makin terlibat dalam permasalahan Grindelwald. Fantastic Beast 2 akan memperluas dunia sihir ke New York, London dan Paris.
+            Juga tokoh-tokoh baru bermunculan, seperti Thesesus Scamander, saudara dari Newt Schamander, Nagini, Nicholas Flamel, Torquil Travers dan Roiser. Nagini merupakan makhluk peliharaan Voldemort yang akan diperankan oleh Claudia Kim.
+        </item>
+        <item>
+            Newt Scamander yang menolong qilin, hewan ajaib yang bisa mengetahui ketulusan hati seseorang. Akan tetapi, dia dihadang anak buah Grindelwald. Ternyata, Grindelwald membutuhkan kemampuan qilin yang bisa memperlihatkan masa depan atau mencium kebaikan seseorang.
+            Albus Dumbledore tidak tinggal diam begitu. Dia kemudian membuat sebuah tim yang bisa mengelabui Grindelwald. Tim tersebut terdiri dari Newt, Jacob, Lally , Yusuf, Bunty, dan Theseus.Tim ini memiliki tugas menjalankan rencana untuk menghentikan Grindelwald.
+            Dumbledore pun mempersiapkan beberapa koper untuk mereka, di mana salah satu di antaranya berisi qilin.Keadaan semakin memburuk saat pemimpin kementerian sihir Jerman, Anton Vogel mengatakan Grindelwald tak bersalah dan dibebaskan atas segala tuduhan.
+        </item>
+    </string-array>
+
+    <integer-array name="data_cover">
+        <item>@drawable/hp_batu_bertuah</item>
+        <item>@drawable/hp_kamar_rahasia</item>
+        <item>@drawable/hp_piala_api</item>
+        <item>@drawable/hp_tawanan_azkaban</item>
+        <item>@drawable/hp_orde_phoenix</item>
+        <item>@drawable/hp_pangeran_campuran</item>
+        <item>@drawable/hp_relikui_kematian</item>
+        <item>@drawable/hp_cursed_child</item>
+        <item>@drawable/fb_findthem</item>
+        <item>@drawable/fb_grindelwald</item>
+        <item>@drawable/fb_dumbledore</item>
+    </integer-array>
+
+</resources>
